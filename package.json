@@ -36,12 +36,13 @@
       "import": "./esm/index.js",
       "require": "./cjs/index.js"
     },
-    "./icons":{
+    "./icons": {
       "import": "./esm/icons/index.js",
       "require": "./cjs/icons/index.js"
     }
   },
   "dependencies": {
+    "@David-Nezri/jobber-shared": "^0.0.1",
     "@elastic/elasticsearch": "^8.11.0",
     "cloudinary": "^1.41.0",
     "express": "^4.18.2",
