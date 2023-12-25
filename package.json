@@ -1,7 +1,7 @@
 {
   "version": "0.0.1",
   "license": "MIT",
-  "main": "index.js",
+  "types": "./src/index.d.ts",
   "description": "Helpers library for Jobber app",
   "engines": {
     "node": ">=20"
@@ -18,7 +18,7 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "@David-Nezri/jobber-shared",
+  "name": "@david-nezri/jobber-shared",
   "author": "David-Nezri",
   "repository": {
     "type": "git",
@@ -60,5 +60,9 @@
     "@types/express": "^4.17.21",
     "@types/jsonwebtoken": "^9.0.5",
     "cross-env": "^7.0.3"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/David-Nezri/jobber-shared/issues"
+  },
+  "homepage": "https://github.com/David-Nezri/jobber-shared#readme"
 }
