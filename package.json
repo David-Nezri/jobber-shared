@@ -18,7 +18,7 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "@david-nezri/jobber-shared",
+  "name": "@David-Nezri/jobber-shared",
   "author": "David-Nezri",
   "repository": {
     "type": "git",
@@ -38,7 +38,6 @@
     }
   },
   "dependencies": {
-    "@David-Nezri/jobber-shared": "^0.0.1",
     "@elastic/elasticsearch": "^8.11.0",
     "cloudinary": "^1.41.0",
     "express": "^4.18.2",
