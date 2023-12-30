@@ -2,6 +2,7 @@
   "version": "0.0.3",
   "license": "MIT",
   "main": "index.js",
+  "types": "./src/index.d.ts",
   "description": "Helpers library for Jobber app",
   "engines": {
     "node": ">=20"
